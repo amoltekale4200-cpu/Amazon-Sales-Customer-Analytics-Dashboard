@@ -267,7 +267,9 @@ If you found this project useful,
 
 ⭐ Star this Repository
 
+## Screenshot
 
+![image alt](https://github.com/amoltekale4200-cpu/Amazon-Sales-Customer-Analytics-Dashboard/raw/refs/heads/main/Dashboard%20Preview)
 
 <div align="center">
 
