@@ -279,8 +279,3 @@ Made with Power BI
 
 </div>
 
-
-
-
-
-ya readme mde mla maza proj che ss add kraiche ahet 
